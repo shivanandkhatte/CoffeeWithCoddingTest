@@ -123,3 +123,21 @@ git branch -D my-feature
 The git branch command is essential for managing branches in Git, which is crucial for organizing and developing different features or versions of your code.
 
 git push -u origin main            -------------   -u is use for origin main not type in every push command. 
+
+--------------------------------------------------------------------------------------------------------------------------------
+<h1>Workflow</h1>
+
+Local Git
+
+1. Create Github Repo
+2. Clone                ------------ git clone <-Link from created github repo->
+3. Changes/Add new files            
+4. Cheack Status        ------------ git status (cheack file staging like )
+4. Add                  ------------ git add .
+5. Commit               ------------ git commit -m "message"
+6. Push                 ------------ git push -u origin main
+------------------------------------------------------------------------------------------------------------------------------
+
+Git Branches
+
+
