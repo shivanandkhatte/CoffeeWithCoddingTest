@@ -16,8 +16,12 @@ Download
 To check Vesion of Git...
 
 git --version
-
-           
+<br>--------------------------------------------------------------------------------
+Git configuration
+git config --global user.name "shivanand Hatte"
+<br>
+git config --global user.email "shivanandhatte@outlook.com"
+<br>           
 
 
 
