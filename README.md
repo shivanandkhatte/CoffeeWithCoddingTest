@@ -121,3 +121,5 @@ git branch -d my-feature
 Note that Git will prevent you from deleting a branch that contains changes that haven't been merged. If you want to forcefully delete a branch, you can use the -D option instead of -d.
 git branch -D my-feature
 The git branch command is essential for managing branches in Git, which is crucial for organizing and developing different features or versions of your code.
+
+git push -u origin main            -------------   -u is use for origin main not type in every push command. 
