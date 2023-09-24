@@ -20,6 +20,7 @@ git --version
 --------------------------------------------------------------------------------
 <br>
 Git configuration
+<br>
 git config --global user.name "shivanand Hatte"
 <br>
 git config --global user.email "shivanandhatte@outlook.com"
