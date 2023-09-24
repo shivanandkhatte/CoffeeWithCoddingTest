@@ -18,14 +18,37 @@ To check Vesion of Git...
 git --version
 <br>
 --------------------------------------------------------------------------------
-<br>
 Git configuration
-<br>
+
 git config --global user.name "shivanand Hatte"
-<br>
 git config --global user.email "shivanandhatte@outlook.com"
-<br>        
 To check git congigration setup=>git config --list
+--------------------------------------------------------------------------------
+Clone and Status
+
+Clone: Clone a repository pn your local machine (code copy from github)
+Command: 
+git clone <Link>
+
+Status: Display or check status of code.
+git status
+
+
+some additional command for you
+cd folder name          --------------go to current working directory
+cd ..                   --------------go back from working directory
+ls                      --------------List the files or folders on working directory
+ls -a                   --------------Display hiddne files and folders on working directory
+ls -l                   --------------Dispay details of files and folders on wroking directoirt
+
+---------------------------------------------------------------------------------------------------
+File ststus
+
+untracted               ------------New file that git dosen't yet track.
+mdified                 ------------exisitng file has modified.
+staged                  ------------file is ready to committed.
+unchanged               ------------fine is upto date.there is no change.
+
 
 
 
