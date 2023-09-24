@@ -49,6 +49,32 @@ mdified                 ------------exisitng file has modified.
 staged                  ------------file is ready to committed.
 unchanged               ------------fine is upto date.there is no change.
 
+------------------------------------------------------------------------------------------------------
+Add abd Commit
+
+add: adds new or changed file in your working derictory to the git satging area.
+Command:
+git add <-file name->
+
+for add All file
+command:
+git add .
+
+commit: it is the record to change
+Command
+git commit -m "some message"
+---------------------------------------------------------------------------
+Push Command
+push: upload local machine repo content to remote repo (github)
+command:
+git push origin main
+
+origin: it is a default origin 
+main: it is defailt main branch
 
 
+--------------------------------------------------------------------------------
+init command
+git init        
+The git init command is used to initialize a new Git repository in a directory. When you run this command, Git creates a new repository with all the necessary data structures and files required for version control. Here's how you can use it:
 
