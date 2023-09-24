@@ -24,7 +24,8 @@ Git configuration
 git config --global user.name "shivanand Hatte"
 <br>
 git config --global user.email "shivanandhatte@outlook.com"
-<br>           
+<br>        
+To check git congigration setup=>git config --list
 
 
 
