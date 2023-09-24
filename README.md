@@ -16,7 +16,9 @@ Download
 To check Vesion of Git...
 
 git --version
-<br>--------------------------------------------------------------------------------
+<br>
+--------------------------------------------------------------------------------
+<br>
 Git configuration
 git config --global user.name "shivanand Hatte"
 <br>
