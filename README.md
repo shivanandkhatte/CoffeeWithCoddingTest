@@ -127,7 +127,7 @@ git push -u origin main            -------------   -u is use for origin main not
 --------------------------------------------------------------------------------------------------------------------------------
 <h1>Workflow</h1>
 
-Local Git
+<h2>Local Git</h2>
 
 1. Create Github Repo
 2. Clone                ------------ git clone <-Link from created github repo->
